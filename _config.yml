@@ -46,13 +46,14 @@ darkmode: false
 
 # About Section
 # about_title: About Me
+  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Analytic, people-centric, and with a can-do attitude. Flourish in problem-solving in a fast paced and challenging environment and deliver results within tight schedules. Enhance security resilience in a holistic approach by supporting business decisions, developing cyber security architecture, identifying security gaps, gaining momentum to continuous improvement and inspiring people. Adaptive, flexible, and a team player in cross-functional teams. With a wide variety of experiences in security best practises and tools, and digital transformation.
   
   Eager to meet with people from all walks of life and learn from each other.
 
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 content:
   - title: Projects # Title for the section
