@@ -73,7 +73,7 @@ content:
         # quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          In 2001, SIEM was not well known in the industry. And those big names like Splunk and Qradar not yet appeared. I, a few of talented consultants, developers and a researcher, we understood the downside of lacking a tool on correlating all the security event. We decided to built our own.
+          In 2001, SIEM was not well known in the industry. Those big names like Splunk and Qradar had not yet appeared. I, a researcher, a few of talented consultants and developers, with the understanding of the downside of lacking a tool on correlating all the security events, decided to built our own.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
