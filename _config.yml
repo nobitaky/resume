@@ -75,20 +75,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           In 2001, SIEM was not well known in the industry. Those big names like Splunk and Qradar had not yet appeared. I, a researcher, a few of talented consultants and developers, with the understanding of the downside of lacking a tool on correlating all the security events, decided to built our own.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Secure Associates Ltd.
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Regional Security Consultant
-        caption: 2001 - 2003
-        quote: >
-          Secure Associates is a technology start-up offering information security consultancy, managed services and developing own SIEM solution.
-        description: | # this will include new lines to allow paragraphs
-            We built the blocks. We built the correlation engine based on our everyday experience in threat hunting and incident response. We fine tuned the logic behind one by one manually.
-            We won the contract for a HK Gov deploying their first SOC in their backbone. MSSPs in Taiwan, Malaysia and Singapore partnered with us and deployed our tool to help monitoring and protecting their clients.
+            We built the blocks and the correlation engine of the tool based on our everyday experience in threat hunting and incident response. We fine-tuned the logic behind the tool bit by bit manually.
+            
+            We won a contract from Govt. for deploying their first SOC. MSSPs in Taiwan, Malaysia and Singapore partnered with us and deployed our tool to monitor and protect their clients.
 
 
 # Footer
